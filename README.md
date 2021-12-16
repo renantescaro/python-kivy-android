@@ -1,9 +1,19 @@
 #### Pequeno teste para gerar app de Android utilizando Python
 
-### Instalar todas as dependências
-* pip install -r requirements.txt
+## Geração de APK funciona APENAS em LINUX
 
-### Ou usar VENV
+!['print']('doc/print.jpeg')
+
+### Instalar todas as dependências
+* > wget https://github.com/HeaTTheatR/KivyMD-data/raw/master/install-kivy-buildozer-dependencies.sh
+chmod +x install-kivy-buildozer-dependencies.sh
+* > ./install-kivy-buildozer-dependencies.sh
+
+### Gerar APK
+* > buildozer init
+* > buildozer android debug
+
+### VENV apenas para desenvolvimento
 * python -m venv venv
 * venv\Scripts\activate.bat
 * pip install -r requirements.txt
