@@ -2,7 +2,7 @@
 
 ## Geração de APK funciona APENAS em LINUX
 
-!['print']('doc/print.jpeg')
+![print](doc/print.jpeg)
 
 ### Instalar todas as dependências
 * > wget https://github.com/HeaTTheatR/KivyMD-data/raw/master/install-kivy-buildozer-dependencies.sh
