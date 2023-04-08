@@ -1,4 +1,4 @@
-#### Pequeno teste para gerar app de Android utilizando Python 🐍
+# Pequeno teste para gerar app de Android utilizando Python 🐍
 
 ## Geração de APK funciona APENAS em LINUX 🐧
 
